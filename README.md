@@ -4,15 +4,15 @@
 
 #### Contents
 
-- [Animations](#charts-dancer)
+- [Animations](#animations-dancer)
 - [Autocomplete](#autocomplete-hamburger)
-- [Boilerplates](#boilerplates-house_with_garden)
+- [Boilerplates](#boilerplate-house_with_garden)
 - [Captcha](#captcha-guardsman)
 - [Carousel](#carousel-carousel_horse)
 - [Charts](#charts-chart_with_upwards_trend)
 - [Color](#color-rainbow)
 - [Dates](#dates-date)
-- [Drag&Drop](#drag&drop-arrows_clockwise)
+- [Drag&Drop](#dragdrop-arrows_clockwise)
 - [Forms](#forms-pencil)
 - [Grid](#grid-checkered_flag)
 - [HTTP](#http-zap)
