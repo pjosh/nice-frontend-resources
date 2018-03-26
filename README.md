@@ -151,7 +151,7 @@
 
 - [downshift](https://github.com/paypal/downshift) - (React)
 - [React-Select](https://github.com/JedWatson/react-select) - (React)
-- [React Selectize](hhttps://github.com/furqanZafar/react-selectize) - (React)
+- [React Selectize](https://github.com/furqanZafar/react-selectize) - (React)
 
 ## Set of components :bento:
 
