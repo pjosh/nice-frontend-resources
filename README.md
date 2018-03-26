@@ -1,4 +1,4 @@
-# Nice Frontend resources
+# Nice frontend resources :nail_care:
 
 > A curated list of Javascript & CSS resources.
 
