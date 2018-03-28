@@ -19,6 +19,7 @@
 - [i18n](#i18n-tongue)
 - [Icons](#icons-exclamation)
 - [Loaders](#loaders-cyclone)
+- [Maps](#maps-earth_americas)
 - [Media gallery](#media-gallery-sunrise_over_mountains)
 - [Mind blowing miscellany](#mind-blowing-miscellany-boom)
 - [Responsive](#responsive-left_right_arrow)
@@ -116,6 +117,10 @@
 ## Loaders :cyclone:
 
 - [css-loaders](https://github.com/lukehaas/css-loaders) - (CSS)
+
+## Maps :earth_americas:
+
+- [CesiumJS](https://github.com/AnalyticalGraphicsInc/cesium) - (VanillaJS)
 
 ## Media gallery :sunrise_over_mountains:
 
