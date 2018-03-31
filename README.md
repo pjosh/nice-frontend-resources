@@ -39,6 +39,7 @@
 - [Easing Functions Cheat Sheet](https://github.com/ai/easings.net) - (CSS / jQuery)
 - [flubber](https://github.com/veltman/flubber) - (VanillaJS)
 - [magic](https://github.com/miniMAC/magic) - (CSS)
+- [Popmotion](https://github.com/popmotion/popmotion) - (VanillaJS)
 - [React Morph](https://github.com/brunnolou/react-morph) - (React)
 - [React-Move](https://github.com/react-tools/react-move) - (React)
 - [wobble](https://github.com/skevy/wobble) - (VanillaJS)
