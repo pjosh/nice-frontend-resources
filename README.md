@@ -75,6 +75,7 @@
 - [Grabient](https://github.com/johnkorzhuk/grabient) - (CSS)
 - [Granim.js](https://github.com/sarcadass/granim.js) - (VanillaJS)
 - [Vibrant.js](https://github.com/jariz/vibrant.js) - (VanillaJS)
+- [Viz Palette](http://projects.susielu.com/viz-palette) - (VanillaJS / CSS)
 - [WebGradients](https://github.com/itmeo/webgradients) - (CSS)
 
 ## Dates :date:
