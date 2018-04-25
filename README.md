@@ -133,6 +133,7 @@
 
 ## Mind blowing miscellany :boom:
 
+- [CSS Blocks](https://github.com/linkedin/css-blocks)
 - [Driver.js](https://github.com/kamranahmedse/driver.js) - (VanillaJS)
 - [Open MCT](https://github.com/nasa/openmct)
 - [terrain](https://github.com/mewo2/terrain) - (VanillaJS)
