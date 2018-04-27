@@ -81,6 +81,7 @@
 
 ## Dates :date:
 
+- [Day.js](https://github.com/xx45/dayjs) - (VanillaJS)
 - [Moment.js](https://github.com/moment/moment/) - (VanillaJS)
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - (React)
 - [react-dates](https://github.com/airbnb/react-dates) - (React)
