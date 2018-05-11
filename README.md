@@ -126,8 +126,10 @@
 ## Maps :earth_americas:
 
 - [CesiumJS](https://github.com/AnalyticalGraphicsInc/cesium) - (VanillaJS)
+- [deck.gl](https://github.com/uber/deck.gl) - (VanillaJS)
 - [Leaflet](https://github.com/Leaflet/Leaflet) - (VanillaJS)
 - [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) - (VanillaJS)
+- [react-map-gl](https://github.com/uber/react-map-gl) - (React)
 
 ## Media gallery :sunrise_over_mountains:
 
