@@ -172,6 +172,7 @@
 
 - [egjs](https://github.com/naver/egjs) - (VanillaJS)
 - [React Toolbox](https://github.com/react-toolbox/react-toolbox) - (React)
+- [wired-elements](https://github.com/wiredjs/wired-elements) - (VanillaJS)
 
 ## State :file_folder:
 
